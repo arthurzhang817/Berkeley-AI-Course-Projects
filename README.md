@@ -1,5 +1,7 @@
 # Berkeley AI Course Projects
 
+Course project CSE 511 at WashU.
+
 ## [Project 0] 
 
 Python Basics
